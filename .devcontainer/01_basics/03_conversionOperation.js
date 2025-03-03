@@ -34,3 +34,22 @@ let negValue = -value
 console.log(negValue);
 // console.log(stringNumber);
 
+// increment js mdn veri imp topic
+
+// The increment (++) operator increments (adds one to) its operand and returns the value before or after the increment, 
+//  depending on where the operator is placed.
+
+// Examples: 1
+let x = 3;
+const y = x++;
+
+console.log(`x:${x}, y:${y}`);
+// Expected output: "x:4, y:3"
+
+// Examples: 2
+
+let a = 3;
+const b = ++a;
+
+console.log(`a:${a}, b:${b}`);
+// Expected output: "a:4, b:4"
